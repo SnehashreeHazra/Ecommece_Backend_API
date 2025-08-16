@@ -28,7 +28,7 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/AsifIqbalSekh/Ecommerce-Dummy.git
+    git clone https://github.com/SnehashreeHazra/Ecommerce_Backend_API.git
     ```
 
 2. Navigate into the project directory:
