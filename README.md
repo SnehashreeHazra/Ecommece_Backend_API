@@ -28,22 +28,16 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/SnehashreeHazra/Ecommerce_Backend_API.git
+    git clone https://github.com/SnehashreeHazra/Ecommece_Backend_API.git
     ```
 
-2. Navigate into the project directory:
-
-    ```
-    cd Ecommerce-Dummy
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
 
     ```
     npm install
     ```
 
-4. Set up environment variables:
+3. Set up environment variables:
 
    Modify `.env` file in the root directory and add the following variables:
 
@@ -53,13 +47,13 @@ Before running the project, make sure you have the following installed:
     DB_URI_LOGS=your_mongodb_uri
     ```
 
-5. Run the server:
+4. Run the server:
 
     ```
     npm start
     ```
 
-6. The server should now be running at `http://localhost:8080`.
+5. The server should now be running at `http://localhost:8080`.
 
 ## Usage
 
